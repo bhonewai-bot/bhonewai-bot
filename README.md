@@ -1,4 +1,5 @@
 About Me:
+
 Hey, I’m Bhone.
 
 I’m a web developer who has been learning and building with different technologies over the past two years. I’ve worked with PHP, Laravel, JavaScript, TypeScript, React, Express, and multiple SQL databases including MySQL, PostgreSQL, and MSSQL.
