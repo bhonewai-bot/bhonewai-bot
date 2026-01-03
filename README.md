@@ -4,7 +4,7 @@ Hey, I’m Bhone.
 
 I’m a web developer who has been learning and building with different technologies over the past two years. I’ve worked with PHP, Laravel, JavaScript, TypeScript, React, Express, and multiple SQL databases including MySQL, PostgreSQL, and MSSQL.
 
-At the moment, I’m building APIs using ASP.NET and developing client applications with React. I’m focused on strengthening my fundamentals and growing through real projects rather than chasing trends.
+At the moment, I’m building APIs using ASP.NET Core and developing client applications with React. I’m focused on strengthening my fundamentals and growing through real projects rather than chasing trends.
 
 🛠️ Tech Stack  
 ----
