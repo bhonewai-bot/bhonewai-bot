@@ -1,11 +1,9 @@
-# Hey, I'm <span style="color: #61dafb;">Bhone Wai!</span> 👋
+About Me:
+Hey, I’m Bhone.
 
----
+I’m a web developer who has been learning and building with different technologies over the past two years. I’ve worked with PHP, Laravel, JavaScript, TypeScript, React, Express, and multiple SQL databases including MySQL, PostgreSQL, and MSSQL.
 
-## 👨‍💻 About Me
-
-- 🧠 Self-taught dev who fell down the **web dev rabbit hole** and decided to stay there.
-- 💻 Currently diving deep into **C#/.NET** and **MSSQL**, while still vibing with **React** and **TypeScript**.
+At the moment, I’m building APIs using ASP.NET and developing client applications with React. I’m focused on strengthening my fundamentals and growing through real projects rather than chasing trends.
 
 🛠️ Tech Stack  
 <div>
